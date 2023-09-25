@@ -1,0 +1,51 @@
+{
+    "status" : "ok",
+    "totalResult" : 5,
+     "questions":[
+        {
+            "quiz":{
+                "number": 1,
+                "title" : "HTML and CSS"
+            },
+            "author": "Maryum Irfan",
+            "question": "What is abbreviation of HTML?",
+            "answer": "HTML stands for HyperText Markup Language" 
+        },
+        {
+            "quiz":{
+                "number": 2,
+                "title" : "HTML and CSS"
+            },
+            "author": "Maryum Irfan",
+            "question": "What is abbreviation of CSS?",
+            "answer": "CSS stands for Cascading StyleSheet" 
+        },
+        {
+            "quiz":{
+                "number": 3,
+                "title" : "HTML and CSS"
+            },
+            "author": "Maryum Irfan",
+            "question": "How many headers are in HTML?",
+            "answer": "There are six headers in HTML <h1> to <h6>." 
+        },
+        {
+            "quiz":{
+                "number": 4,
+                "title" : "HTML and CSS"
+            },
+            "author": "Maryum Irfan",
+            "question": "How to bold text through CSS? ",
+            "answer": "font-weight is used to bold text in CSS" 
+        },
+        {
+            "quiz":{
+                "number": 5,
+                "title" : "HTML and CSS"
+            },
+            "author": "Maryum Irfan",
+            "question": "What tag is used for block line element?" ,
+            "answer": "<div></div> is used for block line element" 
+        }
+     ]
+}
